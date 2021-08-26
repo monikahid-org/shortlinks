@@ -7,3 +7,7 @@ Static shortlinks for www.monikah.id, powered by Netlify
 ## Live
 
 [s.monikah.id](https://s.monikah.id)
+
+---
+
+🛠️ Since 2021 with 💖 [monikah.id](https://www.monikah.id)
